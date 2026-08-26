@@ -1,4 +1,4 @@
-# cellpose-js
+# THIS REPO HAS MOVED TO https://github.com/TheJacksonLaboratory/cellpose-js
 
 [![CI / CD](https://github.com/belkassaby/Cellpose.js/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/belkassaby/Cellpose.js/actions/workflows/ci-cd.yaml)
 [![npm version](https://img.shields.io/npm/v/cellpose-js.svg)](https://www.npmjs.com/package/cellpose-js)
